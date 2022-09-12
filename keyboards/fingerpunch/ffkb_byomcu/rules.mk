@@ -48,3 +48,4 @@ MOUSEKEY_ENABLE = no
 SRC += matrix_74hc595_spi.c
 QUANTUM_LIB_SRC += spi_master.c
 CUSTOM_MATRIX = lite
+
